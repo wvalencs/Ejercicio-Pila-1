@@ -8,7 +8,7 @@ public class Main {
      */
 
     public static void main(String[] args) {
-        int aux=0;
+        int aux;
         int tam=100;
         int arr[]= new int[tam];
         Random ale= new Random();
